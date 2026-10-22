@@ -9,6 +9,7 @@ for creators.
 
 - **Getly:** https://www.getly.store/product/creator-brand-deal-payment-contract-kit-get-paid-on-time-every-brand-deal
 - **SellApp:** https://digitaltoolkitstore.sell.app/product/creator-brand-deal-payment-contract-kit
+- **Watch the demo:** https://www.youtube.com/watch?v=TZ2wg_Zk-uE
 
 ## What it is
 
