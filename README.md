@@ -7,8 +7,8 @@ for creators.
 
 ## Buy
 
-- **Getly:** https://www.getly.store *(product link added at publish)*
-- **SellApp:** https://digitaltoolkitstore.sell.app *(product link added at publish)*
+- **Getly:** https://www.getly.store/product/creator-brand-deal-payment-contract-kit-get-paid-on-time-every-brand-deal
+- **SellApp:** https://digitaltoolkitstore.sell.app/product/creator-brand-deal-payment-contract-kit
 
 ## What it is
 
