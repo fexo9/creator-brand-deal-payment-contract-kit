@@ -1,0 +1,21 @@
+# Pinterest pin — Creator Brand-Deal Payment & Contract Kit
+
+**Title:**
+Get Paid On Time, Every Brand Deal — Creator Contract & Payment Kit
+
+**Description:**
+Up to 87% of creators have been paid late. This $19 kit is the
+post-signature enforcement layer: 8 copy-paste contract clauses (50%
+upfront, late fees, kill fee, usage-rights caps), a payment + usage-rights
+tracker with automatic overdue aging and expiry alerts, a fill-in brand
+invoice, and a 5-step chase sequence that's firm without burning the
+relationship. 11 languages. Free sample inside.
+
+**Destination URL (GitHub repo — never sell.app, never retry a blocked link):**
+https://github.com/fexo9/creator-brand-deal-payment-contract-kit
+
+**Image:** media/pin-image.png (in this folder)
+
+**Board:** a creator/money board if one exists, else the closest existing
+business-template board. Do not create a new board from the work side
+without checking existing boards first.
